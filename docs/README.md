@@ -22,9 +22,10 @@ embedded linux engineers/developers, hobbies, hacker who already familiar with L
 
 
 #### [Ubuntu releases](https://wiki.ubuntu.com/Releases)
-| Version | Code name | Docs | Release date | End of Life date |
-| ------ | ------ | ------ | ------ | ------ |
-| Ubuntu 18.04 LTS | Bionic Beaver | Release Notes | April 26, 2018| April 2023 |
+
+| Version | Code name | Release date | End of Life date |
+| ------ | ------ | ------ | ------ |
+| Ubuntu 18.04 LTS | Bionic Beaver | April 26, 2018| April 2023 |
 
 ## Custom Embedded Linux
 
