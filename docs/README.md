@@ -20,7 +20,7 @@ embedded linux engineers/developers, hobbies, hacker who already familiar with L
 ### Raspberry Pi 3
 #### ARM64
 
-##[Ubuntu releases](https://wiki.ubuntu.com/Releases)
+## [Ubuntu releases](https://wiki.ubuntu.com/Releases)
 | Version | Code name | Docs | Release date | End of Life date |
 | ------ | ------ | ------ | ------ | ------ |
 | Ubuntu 18.04 LTS | [Bionic Beaver](https://wiki.ubuntu.com/BionicBeaver) | [Release Notes](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes) | [April 26, 2018](https://lists.ubuntu.com/archives/ubuntu-announce/2018-April/000231.html) | April 2023 |
