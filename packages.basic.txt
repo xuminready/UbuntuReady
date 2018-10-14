@@ -1,0 +1,11 @@
+#init system
+systemd
+
+udev kmod
+
+usbutils
+
+# Networking
+ifplugd
+net-tools
+dhcpcd5
