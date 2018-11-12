@@ -1,6 +1,6 @@
 #init system
 systemd
-
+sudo
 udev kmod
 
 usbutils
@@ -9,3 +9,5 @@ usbutils
 ifplugd
 net-tools
 dhcpcd5
+#mDNS/DNS-SD daemon
+avahi-daemon
