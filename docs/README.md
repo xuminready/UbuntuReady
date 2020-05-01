@@ -1,7 +1,7 @@
 ## Welcome to Ubuntu Ready
 
-Ubuntu Ready is a minimal version of Ubuntu rootfs for an ARM embedded system(ARMhf and ARM64). It's built upon [Ubuntu Base](https://wiki.ubuntu.com/Base/) images with the Internet access ability. It remains small footprint and fully compatible with the Ubuntu package repositories. 
-Connect your device(s) to the Internet, enjoy large selection of prebuiltpackages with **[`apt`](https://www.raspberrypi.org/documentation/linux/software/apt.md)** command.
+Ubuntu Ready is a minimal version of Ubuntu rootfs for an ARM embedded system(ARMhf and ARM64). I hope it can help people start embedded Linux development quickly.
+
 
 ## Support devices:
 Xilinx Zynq-7000, Zynq UltraScale+ MPSoC, Raspberry Pi 2/3, etc.
