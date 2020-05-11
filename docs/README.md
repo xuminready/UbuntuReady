@@ -25,7 +25,7 @@ embedded linux engineers/developers, hobbies, hacker who already familiar with L
 
 | Version | Code name | Release date | End of Life date |
 | ------ | ------ | ------ | ------ |
-| Ubuntu 18.04 LTS | Bionic Beaver | April 26, 2018| April 2023 |
+| Ubuntu 20.04 LTS | Focal Fossa | April 23, 2020| April 2025 |
 
 ## Custom Embedded Linux
 
