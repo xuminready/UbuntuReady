@@ -11,14 +11,14 @@ embedded linux engineers/developers, hobbies, hacker who already familiar with L
 
 ## Download & Installation: 
 
-### Xilinx Zynq-7000
-#### ARMhf
+### ARMhf
+#### Xilinx Zynq-7000
 
-### Xilinx UltraScale+ MPSoC
-#### ARM64
+### ARM64
+#### Xilinx UltraScale+ MPSoC
 
-### Raspberry Pi 3
-#### ARM64
+### Raspberry Pi
+#### [Raspberry Pi 2, 3 and 4 are fully supported by Canonical](https://ubuntu.com/download/raspberry-pi)
 
 
 #### [Ubuntu releases](https://wiki.ubuntu.com/Releases)
